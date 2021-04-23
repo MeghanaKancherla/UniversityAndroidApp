@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">UniversityApp</string>
+    <string name="label">Trail</string>
 </resources>
